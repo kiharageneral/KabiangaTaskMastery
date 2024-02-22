@@ -1,0 +1,159 @@
+name: kabianga_task_mastery
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #flutter_cupertino_localizations: 
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+  # GetX
+  get: 
+
+  # date
+  intl: 
+
+  # device ui resizing
+  flutter_screenutil: 
+
+  # pull to refresh
+  pull_to_refresh: 
+
+  # toast
+  fluttertoast: 
+
+  # easyloading
+  flutter_easyloading: 
+
+  # http
+  dio: 
+  dio_cookie_manager: 
+  cookie_jar: 
+
+  # local storage
+  shared_preferences: 
+  cached_network_image: 
+  flutter_cache_manager: 
+
+  # encrypting SHA
+  crypto: 
+
+  # webView
+  webview_flutter: 
+
+  # loading
+  loading_animations: 
+
+  # share
+  share:
+
+  # device info
+  device_info: 
+
+  # package info
+  package_info: 
+
+  #path
+  path_provider: 
+
+  # permission
+  permission_handler: 
+
+  # about errors
+  sentry: 
+
+  # get data about device
+  uni_links: 
+
+  #animation library
+  flutter_spinkit: 
+
+
+  dots_indicator: 
+
+  google_sign_in: 
+
+  firebase_core: 
+
+  firebase_messaging: 
+
+  firebase_in_app_messaging: 
+
+  firebase_auth: 
+
+  cloud_firestore: 
+
+  firebase_storage: 
+
+  location: 
+
+  image_picker: 
+
+  photo_view: 
+
+  sqflite: 
+
+  flutter_verification_code: 
+
+  agora_rtc_engine: 
+
+  just_audio: 
+
+  flutter_local_notifications: 
+  pie_chart: 
+  horizontal_calendar: 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/Sound_Horizon.mp3
+    - assets/audio_mixing/Agora.io-Interactions.mp3
+    - assets/agora-logo.png
+    - assets/dang.mp3
+    - assets/ding.mp3
+    - assets/gif.gif
+    - assets/jpg.jpg
+
+  fonts:
+    - family: Avenir
+      fonts:
+        - asset: assets/fonts/Avenir-Book.ttf
+          weight: 400 # normal
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+          weight: 600
+    - family: Iconfont
+      fonts:
+        - asset: assets/fonts/iconfont.ttf
