@@ -28,11 +28,13 @@ To run TaskMastery on your device, you need to have Flutter and Django installed
 
 Screenshots
 Here are some screenshots of the application:
-[Screenshot_2023-05-06-11-28-10-09](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/7da18017-4172-4a78-b832-2d46ee3e6f56)
-[Screenshot_2023-05-06-12-25-05-03](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/b4fc454c-fc60-4a94-808f-2648cdd27e93)
-[Screenshot_2023-05-06-12-25-31-19](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/e8dd1573-d13e-4b09-85bd-39914e058cf6)
-[Screenshot_2023-05-06-11-27-59-04](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/eb2d2d1f-66e1-4ca5-a023-e3643cf92c31)
-[Screenshot_2023-05-06-11-27-50-50](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/82f00495-a289-4bc9-9c0b-e16722f3fa9d)
-[Screenshot_2023-05-06-11-27-10-12](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/47030b1f-53d1-484c-ba6a-a43e8e6b1df8)
-[Screenshot_2023-05-06-11-27-23-94](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/0302c52d-9285-4764-b83a-6473b726fb69)
+![Screenshot_2023-05-06-11-28-10-09](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/7da18017-4172-4a78-b832-2d46ee3e6f56)
+
+![Screenshot_2023-05-06-12-25-05-03](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/b4fc454c-fc60-4a94-808f-2648cdd27e93)
+
+![Screenshot_2023-05-06-12-25-31-19](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/e8dd1573-d13e-4b09-85bd-39914e058cf6)
+![Screenshot_2023-05-06-11-27-59-04](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/eb2d2d1f-66e1-4ca5-a023-e3643cf92c31)
+![Screenshot_2023-05-06-11-27-50-50](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/82f00495-a289-4bc9-9c0b-e16722f3fa9d)
+![Screenshot_2023-05-06-11-27-10-12](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/47030b1f-53d1-484c-ba6a-a43e8e6b1df8)
+![Screenshot_2023-05-06-11-27-23-94](https://github.com/kiharageneral/KabiangaTaskMastery/assets/96424387/0302c52d-9285-4764-b83a-6473b726fb69)
 
